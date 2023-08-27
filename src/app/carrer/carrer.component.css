@@ -1,0 +1,54 @@
+.why{
+    background-image: url(https://www.firstfiddle.in/assets/images/new-about-us-1.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+.heading{
+    font-weight:bold;
+    font-family: 'prague'; 
+    margin-top: 40px;
+/*        font-size: 40px;*/
+    text-align: center;
+}
+
+strong{
+    font-size: 30px;
+}
+
+
+
+
+/*     navbar end*/
+
+.heading{
+    font-weight:bold;
+    font-family: 'prague'; 
+    margin-top: 40px;
+/*        font-size: 40px;*/
+    text-align: center;
+}
+
+.p1{
+    color: #00000085; 
+    font-size: 19px;
+/*        font-family: 'prague';*/
+/*        letter-spacing: 2px;*/
+}
+
+
+.form{
+    padding: 40px 40px; 
+    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%),            0 6px 20px 0 rgb(0 0 0 / 19%) !important; 
+    height: 650px; 
+    width: 43%; 
+    border-radius: 10px;
+}
+
+
+@media(max-width:750px){
+     .form{
+        width: 95%;
+        margin: 12px;
+     }
+}

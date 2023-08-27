@@ -1,0 +1,10 @@
+.img{
+    width: 100%;
+    margin: 25px 0;
+}
+
+.why{
+    background-image: url(https://www.firstfiddle.in/assets/images/CONTACT-US.jpg);
+    background-size: cover;
+    height: 700px;
+}

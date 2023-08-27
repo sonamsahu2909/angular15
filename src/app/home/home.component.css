@@ -1,0 +1,57 @@
+.a{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    text-align: justify;
+    line-height: 30px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-size: 18px;
+}
+.img{
+    width: 80%;
+}
+@media(max-width:575px){
+    .img{
+        width: 100%;
+    }
+}
+
+.why{
+    background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 40px;
+
+}
+
+.h2{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    color: white;
+    margin-top: 100px;
+}
+.p1{
+     text-align: center;
+     font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: white;
+
+}
+@media(max-width:500px){
+    .p1{
+        font-size: 10px;
+    }
+
+}

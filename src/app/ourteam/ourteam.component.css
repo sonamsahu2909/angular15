@@ -1,0 +1,46 @@
+.img{
+    width: 100%;
+    margin: 25px 0;
+}
+
+.why{
+    background-image: url(https://www.firstfiddle.in/assets/images/new-our-team.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+.heading{
+    font-weight:bold;
+    font-family: 'prague'; 
+    margin-top: 40px;
+/*        font-size: 40px;*/
+    text-align: center;
+}
+
+
+/*     our team*/
+   .ourteam i{
+        font-size: 45px;
+        letter-spacing: 10px;
+    }
+
+    .ourteam button{
+        font-size: 25px;
+        margin-bottom: 10px;
+        
+    }
+
+
+/*         image csss */
+
+
+    .boxcontent{
+        text-align: center;
+        margin-top: -90px;
+        color: white;
+/*            font-size: -64px;*/
+        font-weight: bold;
+
+      }
+
+

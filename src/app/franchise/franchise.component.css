@@ -1,0 +1,65 @@
+.img{
+    width: 100%;
+    margin: 25px 0;
+}
+
+.why{
+    background-image: url(https://www.firstfiddle.in/franchising-NEW.jpg);
+    background-size: cover;
+    height: 900px;
+}
+
+@media(max-width:775px){
+    .why1{
+        width: 100% !important;
+    }
+    .why{
+        height: 1150px;
+    }
+}
+
+.bg-yellow{
+    background: orange;
+    width: 50%;
+    /* height: 690px; */
+    border-radius: 30px;
+    margin-top: 120px;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+.heading{
+    font-weight:bold;
+    font-family: 'prague'; 
+    margin-top: 40px;
+/*        font-size: 40px;*/
+    text-align: center;
+}
+
+
+/*     our team*/
+   .ourteam i{
+        font-size: 45px;
+        letter-spacing: 10px;
+    }
+
+    .ourteam button{
+        font-size: 25px;
+        margin-bottom: 10px;
+        
+    }
+
+
+/*         image csss */
+
+
+      .boxcontent{
+        text-align: center;
+        margin-top: -90px;
+        color: white;
+/*            font-size: -64px;*/
+        font-weight: bold;
+
+      }
+
+

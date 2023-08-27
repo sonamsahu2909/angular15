@@ -1,0 +1,28 @@
+.footer{
+    background:#020306f0;
+    padding: 80px 80px 50px 80px;
+    color: #ffffffcc;
+}
+
+.footer i{
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+.footer h5{
+    color: #ffad00;
+}
+.footer1{
+    background: black;
+    padding: 20px;
+    color: #ffffffcc;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+@media(max-width:750px){
+    .img1{
+        width: 80%;
+    }
+}

@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #000000c2 !important;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.web-logo{
+    width: 65px;
+
+}
+
+.mobile-logo{
+    display: none;
+}
+
+@media(max-width:768px){
+    .web-logo{
+        display: none;
+    }
+    .mobile-logo{
+        display: block;
+    }
+    .navbar{
+        background: #fcb21c !important;
+        justify-content: center;
+    }
+    
+}
+
